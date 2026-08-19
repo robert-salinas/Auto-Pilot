@@ -1,0 +1,93 @@
+{
+  "nombre": "cmd test",
+  "descripcion": "",
+  "pasos": [
+    {
+      "tipo": "pulsar",
+      "teclas": [
+        "win",
+        "r"
+      ]
+    },
+    {
+      "tipo": "teclear",
+      "texto": "cmd"
+    },
+    {
+      "tipo": "pulsar",
+      "teclas": [
+        "enter"
+      ]
+    },
+    {
+      "tipo": "teclear",
+      "texto": "dir"
+    },
+    {
+      "tipo": "pulsar",
+      "teclas": [
+        "enter"
+      ]
+    },
+    {
+      "tipo": "teclear",
+      "texto": "cd"
+    },
+    {
+      "tipo": "teclear",
+      "texto": " videos"
+    },
+    {
+      "tipo": "pulsar",
+      "teclas": [
+        "enter"
+      ]
+    },
+    {
+      "tipo": "teclear",
+      "texto": "cd.."
+    },
+    {
+      "tipo": "pulsar",
+      "teclas": [
+        "enter"
+      ]
+    },
+    {
+      "tipo": "teclear",
+      "texto": "dir"
+    },
+    {
+      "tipo": "pulsar",
+      "teclas": [
+        "enter"
+      ]
+    },
+    {
+      "tipo": "teclear",
+      "texto": "tree"
+    },
+    {
+      "tipo": "pulsar",
+      "teclas": [
+        "enter"
+      ]
+    },
+    {
+      "tipo": "teclear",
+      "texto": "exit"
+    },
+    {
+      "tipo": "pulsar",
+      "teclas": [
+        "enter"
+      ]
+    },
+    {
+      "tipo": "clic",
+      "x": 1806,
+      "y": 70,
+      "boton": "left"
+    }
+  ]
+}
